@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77185534-3822-433e-b069-f5e4fa38a694" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/social_n/news/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/news/templates/user_dir/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/news/templates/user_dir/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/news/templates/user_dir/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/news/templates/user_dir/news_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/news/templates/user_dir/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/news/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/css/profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/fonts/Angeline_Vintage.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/fonts/Montserrat-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/fonts/Roboto-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/RSL-WAYNE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/ar-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/ar-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/article-banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/comment-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/comment-user1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/comment-user2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/comment-user3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/full-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/gallery-img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/gallery-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/gallery-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/gallery-img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/home-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/insta1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/insta2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/insta3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/insta4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/insta5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/insta6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/interior.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/left-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/newlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/news2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/news3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/news4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/news5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/news6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/play-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/play1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/play2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/play3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/play4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/play5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/quote-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/right-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/right-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/search-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/star-shape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/stay-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/t-post1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/t-post2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/t-post3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/travel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/video-cover1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/images/video-cover2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/jquery-1.12.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/jquery-3.3.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/jquery.yu2fvl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social_n/static/sass/style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oc0DIYkARQSJ6aqk5BsNwX1JGA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77185534-3822-433e-b069-f5e4fa38a694" name="Default Changelist" comment="" />
+      <created>1613570449975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613570449975</updated>
+    </task>
+    <servers />
+  </component>
+</project>
