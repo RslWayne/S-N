@@ -1,0 +1,8 @@
+{% for i in news %}
+{{ i.images }}
+<img src="{{ i.image.url }}" width="250" height="250">
+
+<a href="{% url 'news_detail' i.id %}">{{ i.title }}</a>
+
+{% endfor %}
+

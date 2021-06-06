@@ -1,0 +1,21 @@
+{% for i in images %}
+<img src="{{ i.image.url }}" width="250" height="250">
+{% endfor %}
+{{ news.tittle }}
+{{ news.text }}
+{{ likes }}
+<a href="{% url 'like' news.id %}">Like </a>
+{{ dislike }}
+<a href="{% url 'dislike' news.id %}">Dislike</a>
+{% for comment in comments %}
+{{ comment.user }}
+{{ comment.text }}
+{{ comment.created }}
+{% endfor %}
+<form method = "POST" action="">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" name="submit">
+</form>
+
+
